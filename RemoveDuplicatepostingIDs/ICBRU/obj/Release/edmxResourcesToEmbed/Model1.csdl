@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="INTRCONFIGModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="INTRCONFIGEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="intr_t_Processes" EntityType="INTRCONFIGModel.intr_t_Processes" />
+  </EntityContainer>
+  <EntityType Name="intr_t_Processes">
+    <Key>
+      <PropertyRef Name="pk_process_ID" />
+    </Key>
+    <Property Name="pk_process_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Process_Name" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Data_Set" Type="String" Nullable="false" MaxLength="128" Unicode="false" FixedLength="false" />
+    <Property Name="fk_Process_Type_ID" Type="Int32" />
+    <Property Name="Current_user" Type="Int32" />
+    <Property Name="Active" Type="Boolean" Nullable="false" />
+  </EntityType>
+</Schema>

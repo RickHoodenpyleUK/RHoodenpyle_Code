@@ -1,0 +1,10 @@
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Release\DataMigration.csproj.ResolveComReference.cache
+C:\Development\Utilities\DataMigration\DataMigration\bin\Release\DataMigration.exe
+C:\Development\Utilities\DataMigration\DataMigration\bin\Release\DataMigration.pdb
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Release\DataMigration.DataMigrationForm.resources
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Release\DataMigration.Properties.Resources.resources
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Release\DataMigration.exe
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Release\DataMigration.pdb

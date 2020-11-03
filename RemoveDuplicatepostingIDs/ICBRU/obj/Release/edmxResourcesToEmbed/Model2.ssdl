@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="INTRCONFIGModel1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="INTRCONFIGModel1StoreContainer">
+    <EntitySet Name="intr_t_Processes" EntityType="INTRCONFIGModel1.Store.intr_t_Processes" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="intr_t_Processes">
+    <Key>
+      <PropertyRef Name="pk_process_ID" />
+    </Key>
+    <Property Name="pk_process_ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Process_Name" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Status" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="Next_Execution_Step" Type="int" />
+    <Property Name="Data_Set" Type="varchar" Nullable="false" MaxLength="128" />
+    <Property Name="fk_Process_Type_ID" Type="int" />
+    <Property Name="Current_user" Type="int" />
+    <Property Name="Active" Type="bit" Nullable="false" />
+  </EntityType>
+</Schema>

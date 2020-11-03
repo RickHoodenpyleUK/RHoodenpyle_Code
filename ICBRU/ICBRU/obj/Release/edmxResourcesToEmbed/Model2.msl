@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="INTRCONFIGModel1StoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="intr_t_Processes">
+      <EntityTypeMapping TypeName="INTRCONFIGModel1.intr_t_Processes">
+        <MappingFragment StoreEntitySet="intr_t_Processes">
+          <ScalarProperty Name="pk_process_ID" ColumnName="pk_process_ID" />
+          <ScalarProperty Name="Process_Name" ColumnName="Process_Name" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Next_Execution_Step" ColumnName="Next_Execution_Step" />
+          <ScalarProperty Name="Data_Set" ColumnName="Data_Set" />
+          <ScalarProperty Name="fk_Process_Type_ID" ColumnName="fk_Process_Type_ID" />
+          <ScalarProperty Name="Current_user" ColumnName="Current_user" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

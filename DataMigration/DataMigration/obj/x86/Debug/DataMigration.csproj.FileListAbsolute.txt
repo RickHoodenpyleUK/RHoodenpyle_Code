@@ -1,0 +1,20 @@
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\bin\Debug\DataMigration.exe
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\bin\Debug\DataMigration.pdb
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\obj\x86\Debug\DataMigration.csproj.ResolveComReference.cache
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\obj\x86\Debug\DataMigration.DataMigrationForm.resources
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\obj\x86\Debug\DataMigration.Properties.Resources.resources
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\obj\x86\Debug\DataMigration.exe
+C:\Users\rhoodenpyle\documents\visual studio 2010\Projects\DataMigration\DataMigration\obj\x86\Debug\DataMigration.pdb
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Debug\DataMigration.csproj.ResolveComReference.cache
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Debug\DataMigration.exe
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Debug\DataMigration.pdb
+C:\Development\Utilities\DataMigration\DataMigration\bin\Debug\DataMigration.exe
+C:\Development\Utilities\DataMigration\DataMigration\bin\Debug\DataMigration.pdb
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Debug\DataMigration.DataMigrationForm.resources
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Debug\DataMigration.Properties.Resources.resources
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\Utilities\DataMigration\DataMigration\obj\x86\Debug\GenerateResource.write.1.tlog

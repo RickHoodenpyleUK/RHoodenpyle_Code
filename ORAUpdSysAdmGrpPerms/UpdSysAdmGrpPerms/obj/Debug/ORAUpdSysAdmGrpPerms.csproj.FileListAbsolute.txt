@@ -1,0 +1,10 @@
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\ORAUpdSysAdmGrpPerms.csprojResolveAssemblyReference.cache
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\ORAUpdSysAdmGrpPerms.Form1.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\ORAUpdSysAdmGrpPerms.csproj.GenerateResource.Cache
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\bin\Debug\ORAUpdSysAdmGrpPerms.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\bin\Debug\ORAUpdSysAdmGrpPerms.pdb
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\ORAUpdSysAdmGrpPerms.Properties.Resources.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\ORAUpdSysAdmGrpPerms.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\ORAUpdSysAdmGrpPerms.pdb
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ORAUpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\ORAUpdSysAdmGrpPerms.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ORAUpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\ORAUpdSysAdmGrpPerms.pdb

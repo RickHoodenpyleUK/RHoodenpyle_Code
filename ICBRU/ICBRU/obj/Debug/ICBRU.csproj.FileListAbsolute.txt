@@ -1,0 +1,9 @@
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\bin\Debug\ICBRU.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\bin\Debug\ICBRU.pdb
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Debug\ICBRU.csprojResolveAssemblyReference.cache
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Debug\ICBRU.Form1.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Debug\ICBRU.Properties.Resources.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Debug\ICBRU.csproj.GenerateResource.Cache
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Debug\ICBRU.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Debug\ICBRU.pdb
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\bin\Debug\ICBRU.exe.config

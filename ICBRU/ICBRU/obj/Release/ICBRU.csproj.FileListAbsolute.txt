@@ -1,0 +1,16 @@
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\bin\Release\ICBRU.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\bin\Release\ICBRU.pdb
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Release\ICBRU.Form1.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Release\ICBRU.Properties.Resources.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Release\ICBRU.csproj.GenerateResource.Cache
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Release\ICBRU.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Release\ICBRU.pdb
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\ICBRU\ICBRU\obj\Release\ICBRU.csprojResolveAssemblyReference.cache
+C:\Development\Utilities\ICBRU\ICBRU\obj\Release\ICBRU.exe
+C:\Development\Utilities\ICBRU\ICBRU\obj\Release\ICBRU.pdb
+C:\Development\Utilities\ICBRU\ICBRU\bin\Release\ICBRU.exe
+C:\Development\Utilities\ICBRU\ICBRU\obj\Release\ResolveAssemblyReference.cache
+C:\Development\Utilities\ICBRU\ICBRU\obj\Release\ICBRU.Form1.resources
+C:\Development\Utilities\ICBRU\ICBRU\obj\Release\ICBRU.Properties.Resources.resources
+C:\Development\Utilities\ICBRU\ICBRU\obj\Release\GenerateResource.read.1.tlog
+C:\Development\Utilities\ICBRU\ICBRU\obj\Release\GenerateResource.write.1.tlog

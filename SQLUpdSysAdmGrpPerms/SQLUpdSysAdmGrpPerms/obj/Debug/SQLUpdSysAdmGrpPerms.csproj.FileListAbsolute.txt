@@ -1,0 +1,8 @@
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\SQLUpdSysAdmGrpPerms\SQLUpdSysAdmGrpPerms\bin\Debug\SQLUpdSysAdmGrpPerms.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\SQLUpdSysAdmGrpPerms\SQLUpdSysAdmGrpPerms\bin\Debug\SQLUpdSysAdmGrpPerms.pdb
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\SQLUpdSysAdmGrpPerms\SQLUpdSysAdmGrpPerms\obj\Debug\SQLUpdSysAdmGrpPerms.csprojResolveAssemblyReference.cache
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\SQLUpdSysAdmGrpPerms\SQLUpdSysAdmGrpPerms\obj\Debug\SQLUpdSysAdmGrpPerms.Form1.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\SQLUpdSysAdmGrpPerms\SQLUpdSysAdmGrpPerms\obj\Debug\SQLUpdSysAdmGrpPerms.Properties.Resources.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\SQLUpdSysAdmGrpPerms\SQLUpdSysAdmGrpPerms\obj\Debug\SQLUpdSysAdmGrpPerms.csproj.GenerateResource.Cache
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\SQLUpdSysAdmGrpPerms\SQLUpdSysAdmGrpPerms\obj\Debug\SQLUpdSysAdmGrpPerms.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\SQLUpdSysAdmGrpPerms\SQLUpdSysAdmGrpPerms\obj\Debug\SQLUpdSysAdmGrpPerms.pdb

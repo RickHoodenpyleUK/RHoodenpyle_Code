@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[RMSInstaller.sln]
+SCC_Aux_Path = "\\sulaco.rms-inc.com\rms_vss2"
+SCC_Project_Name = "$/Installers/RMSClassic/RMSInstaller_1", LGACAAAA

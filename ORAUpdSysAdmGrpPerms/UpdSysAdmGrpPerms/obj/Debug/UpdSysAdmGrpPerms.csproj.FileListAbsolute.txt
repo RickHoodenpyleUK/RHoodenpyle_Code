@@ -1,0 +1,8 @@
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\UpdSysAdmGrpPerms.csprojResolveAssemblyReference.cache
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\UpdSysAdmGrpPerms.Form1.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\UpdSysAdmGrpPerms.Properties.Resources.resources
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\UpdSysAdmGrpPerms.csproj.GenerateResource.Cache
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\bin\Debug\UpdSysAdmGrpPerms.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\bin\Debug\UpdSysAdmGrpPerms.pdb
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\UpdSysAdmGrpPerms.exe
+C:\Users\rhoodenpyle\Documents\Visual Studio 11\Projects\UpdSysAdmGrpPerms\UpdSysAdmGrpPerms\obj\Debug\UpdSysAdmGrpPerms.pdb

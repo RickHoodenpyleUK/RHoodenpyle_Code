@@ -1,0 +1,9 @@
+C:\Development\Utilities\SetFirewallPorts\SetFirewallPorts\bin\Debug\SetFirewallPorts.exe
+C:\Development\Utilities\SetFirewallPorts\SetFirewallPorts\bin\Debug\SetFirewallPorts.pdb
+C:\Development\Utilities\SetFirewallPorts\SetFirewallPorts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Utilities\SetFirewallPorts\SetFirewallPorts\obj\x86\Debug\SetFirewallPorts.Form1.resources
+C:\Development\Utilities\SetFirewallPorts\SetFirewallPorts\obj\x86\Debug\SetFirewallPorts.Properties.Resources.resources
+C:\Development\Utilities\SetFirewallPorts\SetFirewallPorts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\Utilities\SetFirewallPorts\SetFirewallPorts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\Utilities\SetFirewallPorts\SetFirewallPorts\obj\x86\Debug\SetFirewallPorts.exe
+C:\Development\Utilities\SetFirewallPorts\SetFirewallPorts\obj\x86\Debug\SetFirewallPorts.pdb

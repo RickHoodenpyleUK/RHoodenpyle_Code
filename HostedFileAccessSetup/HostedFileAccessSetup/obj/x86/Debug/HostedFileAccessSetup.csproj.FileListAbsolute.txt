@@ -1,0 +1,9 @@
+C:\Development\Utilities\HostedFileAccessSetup\HostedFileAccessSetup\bin\Debug\HostedFileAccessSetup.exe
+C:\Development\Utilities\HostedFileAccessSetup\HostedFileAccessSetup\bin\Debug\HostedFileAccessSetup.pdb
+C:\Development\Utilities\HostedFileAccessSetup\HostedFileAccessSetup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Utilities\HostedFileAccessSetup\HostedFileAccessSetup\obj\x86\Debug\HostedFileAccessSetup.HostedFileAccessSetup.resources
+C:\Development\Utilities\HostedFileAccessSetup\HostedFileAccessSetup\obj\x86\Debug\HostedFileAccessSetup.Properties.Resources.resources
+C:\Development\Utilities\HostedFileAccessSetup\HostedFileAccessSetup\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\Utilities\HostedFileAccessSetup\HostedFileAccessSetup\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\Utilities\HostedFileAccessSetup\HostedFileAccessSetup\obj\x86\Debug\HostedFileAccessSetup.exe
+C:\Development\Utilities\HostedFileAccessSetup\HostedFileAccessSetup\obj\x86\Debug\HostedFileAccessSetup.pdb
